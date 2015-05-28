@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reintroducing</title>
+    <link>/</link>
+    <description>Recent content on reintroducing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 26 May 2015 21:16:17 -0500</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>contact</title>
+      <link>/post-title/</link>
+      <pubDate>Tue, 26 May 2015 21:16:17 -0500</pubDate>
+      
+      <guid>/post-title/</guid>
+      <description>&lt;p&gt;Contact page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Tue, 26 May 2015 19:40:01 -0500</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about-me:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About Me&lt;/h1&gt;
+
+&lt;p&gt;This is a blurb about me.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
